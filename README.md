@@ -1,5 +1,5 @@
 ### Hi there, bye there,hh👋
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${DianeDii})
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=DianeDii alt=DianeDii/> </p>
 <!--
 **DianeDii/DianeDii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
