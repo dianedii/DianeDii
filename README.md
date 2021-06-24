@@ -2,8 +2,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=DianeDii alt=DianeDii/> </p>
 
 - 📫 How to reach me: QQ:3463600338
-- 💬 visit my [new blog](https://dianedii.github.io/record/) in world
-- 💬 visit my [old blog](https://dianedii.top/) in China
+- 💬 visit my [blog](https://dianedii.github.io/record/) in world
 <!--
 **DianeDii/DianeDii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
